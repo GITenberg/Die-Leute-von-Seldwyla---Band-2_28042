@@ -1,0 +1,34 @@
+_repo: Die-Leute-von-Seldwyla---Band-2_28042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keller, Gottfried
+    alias: Keller, Gotfryd
+    birthdate: 1819
+    deathdate: 1890
+    gutenberg_agent_id: '2159'
+    url: http://www.gutenberg.org/2009/agents/2159
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gottfried_Keller
+    - http://de.wikipedia.org/wiki/Gottfried_Keller
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28042'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories'
+tableOfContents: Kleider machen Leute --  Der Schmied seines Glückes --  Die missbrauchten
+  Liebesbriefe --  Dietegen --  Das verlorene Lachen.
+title: Die Leute von Seldwyla — Band 2
+url: http://www.gutenberg.org/ebooks/28042
