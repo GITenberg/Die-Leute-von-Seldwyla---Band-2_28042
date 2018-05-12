@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gottfried_Keller
     - http://de.wikipedia.org/wiki/Gottfried_Keller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28042#Die-Leute-von-Seldwyla---Band-2
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-02-09'
 gutenberg_type: Text
